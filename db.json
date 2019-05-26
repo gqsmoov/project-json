@@ -26,13 +26,13 @@
       "name":"Allstate DS",
       "imagePath": "allstateds.png",
       "url":"https://www.allstate.com/landingpages/hiddenworldofdata.htm",
-      "description": "This site is currently still in planning and development. This is a prototype set up as an interactive exploration into bridging the gap between security experts and real world internet users. "
+      "description": "This site is currently still in planning and development. This is a prototype set up as an interactive exploration into bridging the gap between security experts and real world internet users."
     },
     {
       "id":5, 
       "name":"Zendesk-Discord-Bot", 
       "imagePath": "zendesk_discord_bot.png",
-      "url":"https://www.allstate.com/landingpages/hiddenworldofdata.htm",
+      "url":"http://zen.dev.presencepg.com/",
       "description": "The Zendesk Discord integrates and unites your zendesk support tickets by displaying critical onto the Discord platform."
     },
     {
