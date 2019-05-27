@@ -23,34 +23,27 @@
     },
     {
       "id":4, 
-      "name":"Allstate DS",
-      "imagePath": "allstateds.png",
-      "url":"https://www.allstate.com/landingpages/hiddenworldofdata.htm",
-      "description": "This site is currently still in planning and development. This is a prototype set up as an interactive exploration into bridging the gap between security experts and real world internet users."
-    },
-    {
-      "id":5, 
       "name":"Zendesk-Discord-Bot", 
       "imagePath": "zendesk_discord_bot.png",
       "url":"http://zen.dev.presencepg.com/",
       "description": "The Zendesk Discord integrates and unites your zendesk support tickets by displaying critical onto the Discord platform."
     },
     {
-      "id":6, 
+      "id":5, 
       "imagePath": "nais.png",
       "name":"(NAIS) National Association Independent Schools", 
       "url":"http://client.ndev.presencepg.com/",
       "description": "The National Association of Independent Schools (NAIS) is a nonprofit membership association that provides services to more than 1,800 schools and associations of schools in the United States and abroad, including more than 1,500 independent private K-12 schools in the U.S. Learn more below."
     },
     {
-      "id":7, 
+      "id":6, 
       "name":"Ubisoft-Storybook",
       "imagePath": "ubisoft_storybook.png",
       "url":"https://presencepg.github.io/ubisoft-storybook/?selectedKind=Button&selectedStory=with%20text&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel",
       "description": "Storybook for components used in Ubisoft current project and website"
     },
     {
-      "id":8,
+      "id":7,
       "name":"BigCommerce Zendesk App",
       "imagePath": "bigcommerce_zendesk.png",
       "url":"https://www.zendesk.com/",
